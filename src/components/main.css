@@ -1,0 +1,17 @@
+.timeline {
+    margin-top:375px;
+}
+/* .contribute {
+    background-image: url("https://cdn.discordapp.com/attachments/770630662951665679/772663711386697761/1200px-Flag_of_the_United_Kingdom.png");
+} */
+
+body {
+    background-color: #fcfafa !important;
+}
+.posters {
+    padding: 15px;
+    border: 1px solid black;
+    margin: 20px;
+    margin-left: 20px;
+    border-radius: 3%;
+}

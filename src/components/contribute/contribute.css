@@ -1,0 +1,107 @@
+
+
+.signup__form {
+  width: 27% !important;
+  margin-left: 535px;
+  margin-top: 120px !important;
+  border: 1px solid black;
+  padding: 20px;
+  border-radius: 8%;
+  color: black;
+  background-color: white !important;
+}
+
+@media only screen and (max-width: 414px) {
+  .signup__form {
+    margin-left: 100px !important;
+    width: 80% !important;
+  }
+  .signup__button {
+    margin-left: 30px !important;
+  }
+}
+
+@media only screen and (max-width: 375px) {
+  .signup__form {
+    margin-left: 57px !important;
+  }
+  .signup__button {
+    margin-left: 40px !important;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .signup__form {
+    width: 80% !important;
+    margin-left: 45px !important;
+  }
+}
+
+@media only screen and (max-width: 411px) {
+  .signup__form {
+    margin-left: 95px;
+  }
+  .signup__button {
+    margin-left: 20px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .signup__form {
+    width: 55% !important;
+    margin-left: 220px !important;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .signup__form {
+    width: 40% !important;
+    margin-left: 307px !important;
+  }
+}
+
+@media only screen and (max-width: 540px) {
+  .signup__form {
+    width: 50% !important;
+    margin-left: 130px !important;
+  }
+  .signup__button {
+    margin-left: 40px !important;
+  }
+}
+@media only screen and (max-width: 280px) {
+  .signup__form {
+    width: 75% !important;
+    margin-left: 35px !important;
+  }
+  .signup__button {
+    margin-left: 30px !important;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .signup__form {
+    width: 75% !important;
+    margin-left: 50px;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  .signup__button {
+    margin-left: 42px;
+  }
+}
+
+.signup__button {
+  margin-left: 70px;
+  width: 60% !important;
+}
+
+.danger {
+  border: 1.5px solid#721c24 !important;
+  border-radius: 0.25rem !important;
+}
+
+.alert-box {
+  margin: 6px;
+}

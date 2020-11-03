@@ -1,0 +1,74 @@
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&display=swap");
+
+.svg > svg {
+  margin-top: 300px;
+  margin-left: 100px;
+  margin-bottom: 250px;
+  transform: scale(4.52, 4.52);
+  z-index: -1;
+}
+#title {
+  position: absolute;
+  top: 170px;
+  right: 300px;
+  font-family: "Anton", sans-serif;
+  font-size: 2.5rem;
+}
+.subtitle {
+  position: absolute;
+  top: 230px;
+  right: 20px;
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 2.2rem;
+}
+.heroes__box__winston {
+  width: 300px;
+  height: 350px;
+  float: right;
+  position: absolute;
+  top: 290px;
+  left: 850px;
+  border-radius: 10px;
+}
+
+.text__box__text {
+  left: 50px;
+  font-weight: 1500px;
+  opacity: 1 !important;
+}
+.text {
+  height: 600px;
+  width: 1200px;
+  position: absolute;
+  margin-top: 2.5%;
+  margin-left: -1%;
+}
+.text__box__image {
+  margin: 20px;
+  opacity: 0.4;
+  width: 1340px;
+  margin-left: 0px !important;
+  border-radius: 15px;
+  border: 1px solid black;
+  z-index: -1;
+}
+
+.cool {
+  width: 1250px;
+  height: auto;
+  background-color: white;
+  position: absolute;
+  z-index: -1;
+  overflow: none;
+  margin-left: -7% !important;
+  margin: 0px;
+}
+
+.text__box {
+  margin: 0px;
+  margin-left: 0px;
+}
+.svg {
+  display: flex !important;
+  flex-flow: row wrap;
+}
